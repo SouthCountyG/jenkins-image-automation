@@ -1,0 +1,7 @@
+#!/bin/bash
+owner=
+latest_image=
+keypair=
+sec_group=
+subnet=
+instance_size=
